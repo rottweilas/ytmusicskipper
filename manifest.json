@@ -1,0 +1,23 @@
+{
+
+    "name": "YT Music Skipper",
+    "description": "Non stop music for YouTube Music.",
+    "manifest_version": 3,
+    "version": "1.00",
+    "developer": "rottweilasdev@gmail.com",
+
+    "content_scripts":
+    [
+        {
+          "matches": ["*://*.youtube.com/watch?v=*"],
+          "all_frames": true,
+          "js": ["skipper.js"]
+        }
+    ],
+
+    "icons":
+    {
+        "128": "ytskipper.png"
+    }
+      
+}  
