@@ -1,5 +1,6 @@
 # YT Music Skipper
 YouTube Music non stop music.
+
 ​It's an auto click extension for listen to music without stop.
 
 # How to install
