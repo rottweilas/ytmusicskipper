@@ -12,3 +12,6 @@ Settings > Extensions & Themes > Tools for all add-ons > Debug Add-ons > Load Te
 
 Opera:
 Extensions > Put on developer mode > Load unpacked > Select the folder of ytmusicskipper.
+
+# License Apache 2.0
+Author: rottweilas - rottweilasdev@gmail.com
